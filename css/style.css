@@ -25,7 +25,41 @@ text-decoration: underline;
 letter-spacing: 2px;
 }
 
-body{
-  background: linear-gradient(to top, green, goldenrod);
+
+
+/*Урок 5*/
+.h16{
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid red;
+
+}
+
+.wrapper{
+    width: 1170px;
+    margin: 50px;
+}
+.left{
+    width: 585px;
+    float: left;
+}
+.right{
+    width: 585px;
+    float: right;
+}
+
+.table{
+display: table;
+}
+.left_table{
+ display: table-cell;
+    width: 500px;
+}
+
+.right_table{
+ display: table-cell;
+ width: 400px;
+
 }
 
