@@ -63,3 +63,39 @@ display: table;
 
 }
 
+/*Урок 6*/
+
+.wrapper{
+ width: 1170px;
+margin: 0 auto;
+}
+
+.header{
+    height: 100px;
+    margin-top: 25px;
+    background-color: aqua
+}
+.content-wrap{
+ overflow: hidden;
+}
+.content{
+    height: 700px;
+    margin-top: 10px;
+    width: 900px;
+    margin-right: 10px;
+    background-color: burlywood;
+    float: left;
+}
+.right-bar{
+    height: 700px;
+    margin-top: 10px;
+    width: 260px;
+    background-color: darkseagreen;
+    float: left;
+}
+.footer{
+    height: 70px;
+    margin-top: 10px;
+    background-color: darkorange;
+}
+
